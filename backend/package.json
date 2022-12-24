@@ -1,0 +1,15 @@
+{
+  "name": "inotebook-backend",
+  "version": "1.0.0",
+  "description": "Cloud Notes - write notes get anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omkar Santosh Kirane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1"
+  }
+}
